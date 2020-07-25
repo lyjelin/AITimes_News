@@ -1,7 +1,5 @@
 # AITimes_News
 
-=============================================================
-
 About my experience as AITimes reporter (Intern)
 
 **elin@aitimes.com**
@@ -47,8 +45,6 @@ Joined in 8~10 weeks project
   
   > 기사 작성 시 가장 생각해야 할 것: 내가 어떤 글을 쓰더라도 brand는 AITimes
   
-  
-
 ## 기획
   
   ```
@@ -68,7 +64,7 @@ Joined in 8~10 weeks project
   
   *팀과 보조를 맞춰야 한다는 책임감으로 임하는 것*
 
-### 기획한
+### 기획
 
   기획안 작성 시 '추후지정'이란 없다. 기획안은 목표는 나의 계획을 자신 있게 관철시키는 것에 있다. 
   
