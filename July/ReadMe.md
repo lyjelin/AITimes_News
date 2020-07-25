@@ -14,4 +14,5 @@
 - [참여해보자! 2020년 'AI X LOVE' 해카톤](http://www.aitimes.com/news/articleView.html?idxno=130078)
 - [지원해보자! 라인 AI/ML 개발자 찾는다](http://www.aitimes.com/news/articleView.html?idxno=130089)
 
+7월 3일
 - []()
