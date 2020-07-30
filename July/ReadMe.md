@@ -66,12 +66,19 @@
 7월 24일
 - ["AIㆍIT 최신 정보 어디서?" 샛별 사이트 5곳](http://www.aitimes.com/news/articleView.html?idxno=130925)
 
-7월 27일
-- []()
-- []()
+7월 28일
+- [GPT-3 활용 사례 BEST 5](http://www.aitimes.com/news/articleView.html?idxno=131070)
+- [카카오톡 챗봇 유료화, "요금 비싸다" 논란](http://www.aitimes.com/news/articleView.html?idxno=131084)
+
+7월 29일
+- [시시각각 베팅 대응, 페이스북 포커AI 개발 성공]((http://www.aitimes.com/news/articleView.html?idxno=131101))
+
+7월 30일
+- [일론 머스크 "딥마인드가 내 최고 관심사"](http://www.aitimes.com/news/articleView.html?idxno=131132)
 - []()
 
-7월 18일
+7월 31일
+- [일론 머스크 "딥마인드가 내 최고 관심사"](http://www.aitimes.com/news/articleView.html?idxno=131132)
 - []()
-- []()
-- []()
+
+
