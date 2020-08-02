@@ -76,9 +76,9 @@
 7월 30일
 - [일론 머스크 "딥마인드가 내 최고 관심사"](http://www.aitimes.com/news/articleView.html?idxno=131132)
 - [특별 기고 - 챗봇 시장 활성화 먼저, 카카오 유료화는 그 후에](http://www.aitimes.com/news/articleView.html?idxno=131139)
-- []()
 
 7월 31일
-- []()
+- [구글의 반격! 25초 학습으로 GPT3와 경쟁한다](http://www.aitimes.com/news/articleView.html?idxno=131140)
+
 
 
