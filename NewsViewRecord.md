@@ -1,4 +1,4 @@
-# Monthly Statistics 
+# Weekly Statistics 
 
 6월 4주차 기사 통계 
 
