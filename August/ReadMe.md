@@ -9,3 +9,6 @@
 8월 5일
 - [여름방학, 유용한 AI 무료 강의 4선](http://www.aitimes.com/news/articleView.html?idxno=131280)
 
+8월 6일
+- [해외가 주목한 서울대생의 '웹툰 작가' AI](http://www.aitimes.com/news/articleView.html?idxno=131275)
+- [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰](http://www.aitimes.com/news/articleView.html?idxno=131334)
