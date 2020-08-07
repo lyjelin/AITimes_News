@@ -12,3 +12,9 @@
 8월 6일
 - [해외가 주목한 서울대생의 '웹툰 작가' AI](http://www.aitimes.com/news/articleView.html?idxno=131275)
 - [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰](http://www.aitimes.com/news/articleView.html?idxno=131334)
+
+8월 7일
+- [GPT 인기몰이, 사례 모아놓은 닷컴 등장. 깃허브ㆍ트윗이어 웹사이트까지](http://www.aitimes.com/news/articleView.html?idxno=131365)
+
+
+
