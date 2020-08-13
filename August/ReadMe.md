@@ -16,5 +16,11 @@
 8월 7일
 - [GPT 인기몰이, 사례 모아놓은 닷컴 등장. 깃허브ㆍ트윗이어 웹사이트까지](http://www.aitimes.com/news/articleView.html?idxno=131365)
 
+8월 10일
+- [걸그룹이 선택한 노션, 11일 한글버전 출시](http://www.aitimes.com/news/articleView.html?idxno=131424)
 
+8월 12일
+- [GPT3 충격 가시기도 전, GPT4 논란 점화](http://www.aitimes.com/news/articleView.html?idxno=131416)
 
+8월 13일
+- []()
