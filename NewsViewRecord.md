@@ -4,7 +4,10 @@
 
   <img src = "Image/20200701_20200813.PNG" width="40%">
 
-
+# 2020년 7월 기사상
+  
+  + 상패 사진 추가 예정
+  <img src = "Image/7월 기사상 카톡 내용.PNG" width="40%">
 
 # Weekly Statistics 
 
