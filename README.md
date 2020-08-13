@@ -112,6 +112,8 @@ Joined in 8~10 weeks project
 
 **News Value: 영향성 시의성 저명성 근접성 신기성 갈등성**
 
+*멘토님 왈:*
+
 ```
 나와 새로운 이해관계 new interest 맥락 context를 제시하고, 
 
