@@ -1,3 +1,11 @@
+# Top View - My News Article
+
+2020.07.01~2020.08.31 기사 랭킹
+
+  <img src = "Image/20200701_20200813.PNG" width="40%">
+
+
+
 # Weekly Statistics 
 
 6월 4주차 기사 통계 
