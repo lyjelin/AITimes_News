@@ -22,5 +22,8 @@
 8월 12일
 - [GPT3 충격 가시기도 전, GPT4 논란 점화](http://www.aitimes.com/news/articleView.html?idxno=131416)
 
+8월 14일
+- [앤드류 응 교수가 꼽은 'AI가 풀어야 할 4대 과제'](http://www.aitimes.com/news/articleView.html?idxno=131542)
+
 8월 13일
 - []()
