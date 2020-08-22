@@ -25,5 +25,12 @@
 8월 14일
 - [앤드류 응 교수가 꼽은 'AI가 풀어야 할 4대 과제'](http://www.aitimes.com/news/articleView.html?idxno=131542)
 
-8월 13일
-- []()
+8월 18일
+- [[특별기고] AI교육혁명 시대가 왔다](http://www.aitimes.com/news/articleView.html?idxno=131567)
+
+8월 19일
+-[GPT3가 쓴 뉴스가 랭킹1위, 사람을 이겼다](http://www.aitimes.com/news/articleView.html?idxno=131593&fbclid=IwAR3Rl2f4ehwZNAWQnyByWX53tzMgT_UQxvvoHTHmWJpl0dKE2HzG58n9IpE)
+
+8월 20일
+- [[특집]"현장밀착형 AI 인재 양성하겠다"...이지형 성균관대 AI대학원장](http://www.aitimes.com/news/articleView.html?idxno=131568)
+- [[특집] 한국의 인공지능대학원: 성균관대학교](http://www.aitimes.com/news/articleView.html?idxno=131579)
