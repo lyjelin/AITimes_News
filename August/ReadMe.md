@@ -34,3 +34,10 @@
 8월 20일
 - [[특집]"현장밀착형 AI 인재 양성하겠다"...이지형 성균관대 AI대학원장](http://www.aitimes.com/news/articleView.html?idxno=131568)
 - [[특집] 한국의 인공지능대학원: 성균관대학교](http://www.aitimes.com/news/articleView.html?idxno=131579)
+
+8월 23일
+- [전이학습 GAN으로 인공지능이 로마 황제 초상화를 그려냈다](http://www.aitimes.com/news/articleView.html?idxno=131583)
+
+
+
+
