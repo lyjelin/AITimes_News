@@ -1,4 +1,6 @@
-# 인공지능 시대으 미래교육 - 가르침과 배움의 합의 -
+# 인공지능 시대으 미래교육 
+
+## - 가르침과 배움의 합의 -
 
 Centre of Curriculum [CCR]
 1. 환경 리터러시 Environmental Literacy
