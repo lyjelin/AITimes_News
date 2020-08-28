@@ -38,6 +38,15 @@
 8월 23일
 - [전이학습 GAN으로 인공지능이 로마 황제 초상화를 그려냈다](http://www.aitimes.com/news/articleView.html?idxno=131583)
 
+8월 24일
+-[[특집] "내년에 AI 석사 과정 신설"...고려대학교 이성환 AI대학원 주임교수](http://www.aitimes.com/news/articleView.html?idxno=131524)
+-[[특집] 한국의 인공지능대학원: 고려대학교](http://www.aitimes.com/news/articleView.html?idxno=131214)
 
+8월 25일
+- [애플 vs 구글 10가지 차이 '내가 최고야'](http://www.aitimes.com/news/articleView.html?idxno=131679)
+
+8월 27일
+- ['3분만 기다려봐요' 로봇 셰프가 만드는 파스타](http://www.aitimes.com/news/articleView.html?idxno=131731)
+- ['작품 보실래요?' 2020 파이토치 해커톤 마감](http://www.aitimes.com/news/articleView.html?idxno=131768)
 
 
